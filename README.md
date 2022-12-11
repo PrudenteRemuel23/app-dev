@@ -1,5 +1,3 @@
-# app-dev
-My first repository
 
 # My Favorite Series
 ## A Japanese Manga-Based Series
